@@ -16,7 +16,7 @@
 
 <img align="right" src="https://github.com/DiegoPazzini/DiegoPazziniProfile/assets/137452542/512de9ea-a144-41d1-9309-4fb47cb59592" width="300px" />
 
-##Tecnologias que eu uso no meu dia:
+<h3>##Tecnologias que eu uso no meu dia:</h3>
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
