@@ -6,7 +6,7 @@
 
 💡 In the process of career transiction, seeking networking and new opportunities in the area of development and technology.
 
-[![What's](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551995135379&text=Ol%C3%A1%20Sou%20o%20Diego%20Pazzini!%20Tudo%20bem?) target="_blank"
+[![What's](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551995135379&text=Ol%C3%A1%20Sou%20o%20Diego%20Pazzini!%20Tudo%20bem?)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-pazzini-82a106104/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pazzinidiego/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/diego.pazzini.1)
