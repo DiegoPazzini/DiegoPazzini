@@ -1,4 +1,4 @@
-### Olá Eu sou o Diego Pazzini 👋
+### Olá, sou o Diego Pazzini 👋
 
 🌞 I'm currently learning and studing Front End (HTML, CSS and JavaScript), Back End (Java), SQL and NoSQL. Future Full Stack Java Developer.
 
