@@ -6,10 +6,10 @@
 
 💡 In the process of career transiction, seeking networking and new opportunities in the area of development and technology.
 
-<a href = "https://api.whatsapp.com/send?phone=5551995135379&text=Ol%C3%A1%20Sou%20o%20Diego%20Pazzini!%20Tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/diego-pazzini-82a106104/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://www.instagram.com/pazzinidiego/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:diegopazzini2009@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5551995135379&text=Ol%C3%A1%20Sou%20o%20Diego%20Pazzini!%20Tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
+<a href = "https://www.linkedin.com/in/diego-pazzini-82a106104/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+<a href = "https://www.instagram.com/pazzinidiego/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+ <a href = "mailto:diegopazzini2009@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
 
 
 
@@ -40,3 +40,4 @@
 
 
 </div>
+
