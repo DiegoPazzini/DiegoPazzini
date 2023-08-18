@@ -13,9 +13,6 @@
 
 
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoPazzini&show_icons=true&theme=radical)
-
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPazzini&layout=compact&langs_count=7&theme=dracula"/>
 
 <img align="right" src="https://github.com/DiegoPazzini/DiegoPazziniProfile/assets/137452542/512de9ea-a144-41d1-9309-4fb47cb59592" width="300px" />
@@ -37,6 +34,9 @@
 <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoPazzini&bg_color=000000&color=9e8d4c&line=4c659e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoPazzini&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
