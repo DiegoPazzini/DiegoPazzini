@@ -36,9 +36,7 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPazzini&layout=compact&langs_count=7&theme=dracula"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPazzini&layout=compact&langs_count=7&theme=dracula"/>
 
 
 </div>
