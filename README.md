@@ -34,7 +34,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoPazzini&bg_color=000000&color=9e8d4c&line=4c659e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoPazzini&show_icons=true&theme=radical)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPazzini&layout=compact&langs_count=7&theme=dracula"/>
