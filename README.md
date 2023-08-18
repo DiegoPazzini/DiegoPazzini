@@ -11,9 +11,8 @@
 <a href = "https://www.instagram.com/pazzinidiego/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
  <a href = "mailto:diegopazzini2009@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
 
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoPazzini&show_icons=true&theme=radical)
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPazzini&layout=compact&langs_count=7&theme=dracula"/>
 
 <img align="right" src="https://github.com/DiegoPazzini/DiegoPazziniProfile/assets/137452542/512de9ea-a144-41d1-9309-4fb47cb59592" width="300px" />
 
@@ -37,6 +36,8 @@
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoPazzini&show_icons=true&theme=radical)
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPazzini&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
