@@ -31,7 +31,7 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img align="center" alt="Node.js" src="[https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)" />
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoPazzini&bg_color=000000&color=9e8d4c&line=4c659e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
